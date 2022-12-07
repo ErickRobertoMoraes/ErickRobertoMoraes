@@ -1,7 +1,7 @@
 <p>Oi! Eu sou Erick Roberto</P>
 -🧠 Atualmente sou estudante
 <br>
--👾 Estudando Html e CSS
+-👾 Estudando HTML e CSS
 <br>
 -😀 Pronomes: ele/dele
 <br>
