@@ -1,7 +1,7 @@
 <p>Oi! Eu sou Erick Roberto</P>
--🧠 Atualmente sou estudante
+-🧠 Atualmente sou estudante de Análise e Desenvolvimento de Sistemas
 <br>
--👾 Estudando HTML e CSS
+-👾 Estudando HTML, CSS, Bootstrap, Angular, Java, React Native e Csharp
 <br>
 -😀 Pronomes: ele/dele
 <p></p>
