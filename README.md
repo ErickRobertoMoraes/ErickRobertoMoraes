@@ -1,4 +1,4 @@
-<p>Oi! Eu sou Erick Roberto</P>
+<p>Oi! Eu sou Erick Moraes</P>
 -🧠 Atualmente sou estudante de Análise e Desenvolvimento de Sistemas
 <br>
 -👾 Estudando HTML, CSS, Bootstrap, Angular, Java, React Native e Csharp
